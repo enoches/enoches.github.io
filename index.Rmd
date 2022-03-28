@@ -1,0 +1,31 @@
+---
+title: "Enoch Sousa Filho"
+image: "enoch_lagoa-4.jpg"
+links:
+  - label: "Links selecionados"
+    url: links.html
+  - label: Twitter
+    url: "https://twitter.com/enoches"
+  - label: GitHub
+    url: "https://github.com/enoches"
+  - label: Lattes
+    url: "http://lattes.cnpq.br/0311043348406212"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-2489-856X"
+  - label: LinkedIn
+    url: "https://br.linkedin.com/in/enochfilho"
+  - label: Email
+    url: "mailto:enoches@gmail.com"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+  
+### Olá, mundo!  
+
+Enoch Filho é meu nome. Mestre e doutorando em __economia aplicada__ pela Universidade Federal da Bahia (UFBA) e bacharel em Ciências Econômicas pela Universidade Estadual de Santa Cruz (UESC).  
+
+Meus interesses em pesquisa estão em economia espacial, economia regional e urbana, caminhando por tópicos como __migração interna__ e __redes de cidades__. A minha _caixa de ferramentas_ inclui a __linguagem R__ para análise e visualização de dados e métodos ágeis como um framework para a condução de projetos.  
+
+Analista universitário na Universidade Estadual do Sudoeste da Bahia (UESB) de onde me encontro em licença para estudos de pós-graduação.

@@ -1,0 +1,12 @@
+name: "."
+title: "Enoch Sousa Filho"
+description: |
+  Enoch Eduardo Sousa Filho, doutorando em economia pela UFBA, ORCID:0000-0002-2489-856X
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Links"
+      href: links.html
+output: distill::distill_article
