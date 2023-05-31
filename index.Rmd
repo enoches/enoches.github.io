@@ -1,6 +1,6 @@
 ---
 title: "Enoch Sousa Filho"
-image: "enoch_lagoa-4.jpg"
+image: "enoch_2023-02-07.jpg"
 links:
   - label: "Links selecionados"
     url: links.html
