@@ -1,12 +1,12 @@
 name: "."
 title: "Enoch Sousa Filho"
 description: |
-  Enoch Eduardo Sousa Filho, doutorando em economia pela UFBA, ORCID:0000-0002-2489-856X
+  Economia Aplicada, Linguagem R, DataVis
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
-    - text: "Links"
-      href: links.html
+    - text: "Trabalhos"
+      href: works.html
 output: distill::distill_article

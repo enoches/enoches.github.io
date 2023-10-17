@@ -3,7 +3,7 @@ title: "Enoch Sousa Filho"
 image: "enoch_2023-02-07.jpg"
 links:
   - label: "Trabalhos"
-    url: links.html
+    url: works.html
   - label: GitHub
     url: "https://github.com/enoches"
   - label: Lattes
